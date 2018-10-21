@@ -1,0 +1,6 @@
+keras==2.2.0
+tensorflow==1.8.0
+skimage==0.13.1
+pandas==0.23.0
+argparse==1.1
+scipy==1.1.0
